@@ -1,0 +1,7 @@
+C:\Users\Programming12\source\repos\Ch03Ex01\Ch03Ex01\bin\Debug\Ch03Ex01.exe.config
+C:\Users\Programming12\source\repos\Ch03Ex01\Ch03Ex01\bin\Debug\Ch03Ex01.exe
+C:\Users\Programming12\source\repos\Ch03Ex01\Ch03Ex01\bin\Debug\Ch03Ex01.pdb
+C:\Users\Programming12\source\repos\Ch03Ex01\Ch03Ex01\obj\Debug\Ch03Ex01.csprojAssemblyReference.cache
+C:\Users\Programming12\source\repos\Ch03Ex01\Ch03Ex01\obj\Debug\Ch03Ex01.csproj.CoreCompileInputs.cache
+C:\Users\Programming12\source\repos\Ch03Ex01\Ch03Ex01\obj\Debug\Ch03Ex01.exe
+C:\Users\Programming12\source\repos\Ch03Ex01\Ch03Ex01\obj\Debug\Ch03Ex01.pdb
